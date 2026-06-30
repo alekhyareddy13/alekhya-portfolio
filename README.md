@@ -4,7 +4,7 @@ AI Engineer | Python Developer | Machine Learning Enthusiast
 
 ## Live Website
 
-[https://your-vercel-link.vercel.app](https://alekhya-portfolio-kg9j-ne7bawh92-alekhya2.vercel.app/)
+(https://alekhya-portfolio-kg9j-ne7bawh92-alekhya2.vercel.app/)
 
 ## Tech Stack
 
